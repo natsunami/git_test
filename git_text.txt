@@ -1,1 +1,4 @@
 new file to test git
+now we add some modifications to better understand git
+we are on the new branch now !
+further mods
